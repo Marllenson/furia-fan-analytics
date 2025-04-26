@@ -1,0 +1,407 @@
+{
+  "fans": [
+    {
+      "id": "fan001",
+      "username": "CSGOmaster",
+      "platform": "twitter",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "São Paulo",
+        "gender": "masculino",
+        "age_range": "18-24"
+      },
+      "fan_type": "hardcore",
+      "favorite_games": ["CS2", "Valorant"],
+      "engagement_score": 95,
+      "sentiment_score": 0.9,
+      "active_hours": ["19:00", "20:00", "21:00", "22:00"],
+      "first_interaction": "2022-03-15",
+      "last_interaction": "2025-04-20",
+      "total_interactions": 1243,
+      "influence_score": 75,
+      "badges": ["fã fiel", "comentarista", "compartilhador"],
+      "recommended_content": ["cs2_updates", "team_announcements", "exclusive_content"]
+    },
+    {
+      "id": "fan002",
+      "username": "ValFuria",
+      "platform": "twitter",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Rio de Janeiro",
+        "gender": "feminino",
+        "age_range": "25-34"
+      },
+      "fan_type": "game_specific",
+      "favorite_games": ["Valorant"],
+      "engagement_score": 82,
+      "sentiment_score": 0.85,
+      "active_hours": ["18:00", "19:00", "20:00"],
+      "first_interaction": "2023-01-10",
+      "last_interaction": "2025-04-22",
+      "total_interactions": 567,
+      "influence_score": 45,
+      "badges": ["fã valorant", "comentarista"],
+      "recommended_content": ["valorant_updates", "valorant_team_news"]
+    },
+    {
+      "id": "fan003",
+      "username": "RocketLeagueBR",
+      "platform": "twitter",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Belo Horizonte",
+        "gender": "masculino",
+        "age_range": "18-24"
+      },
+      "fan_type": "game_specific",
+      "favorite_games": ["Rocket League"],
+      "engagement_score": 78,
+      "sentiment_score": 0.8,
+      "active_hours": ["20:00", "21:00", "22:00"],
+      "first_interaction": "2022-08-05",
+      "last_interaction": "2025-04-15",
+      "total_interactions": 423,
+      "influence_score": 30,
+      "badges": ["fã rocket league"],
+      "recommended_content": ["rocket_league_updates", "tournament_schedules"]
+    },
+    {
+      "id": "fan004",
+      "username": "FuriaLover",
+      "platform": "instagram",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Brasília",
+        "gender": "feminino",
+        "age_range": "18-24"
+      },
+      "fan_type": "hardcore",
+      "favorite_games": ["CS2", "Valorant", "League of Legends"],
+      "engagement_score": 90,
+      "sentiment_score": 0.95,
+      "active_hours": ["12:00", "13:00", "19:00", "20:00"],
+      "first_interaction": "2021-05-20",
+      "last_interaction": "2025-04-23",
+      "total_interactions": 1876,
+      "influence_score": 85,
+      "badges": ["fã fiel", "comentarista", "compartilhador", "criador de conteúdo"],
+      "recommended_content": ["team_announcements", "exclusive_content", "behind_the_scenes"]
+    },
+    {
+      "id": "fan005",
+      "username": "NovoGamer",
+      "platform": "twitter",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Recife",
+        "gender": "masculino",
+        "age_range": "13-17"
+      },
+      "fan_type": "new",
+      "favorite_games": ["CS2"],
+      "engagement_score": 35,
+      "sentiment_score": 0.7,
+      "active_hours": ["15:00", "16:00", "17:00"],
+      "first_interaction": "2025-03-10",
+      "last_interaction": "2025-04-18",
+      "total_interactions": 42,
+      "influence_score": 10,
+      "badges": ["novo fã"],
+      "recommended_content": ["team_introduction", "game_basics", "tournament_schedules"]
+    },
+    {
+      "id": "fan006",
+      "username": "CasualGamer",
+      "platform": "instagram",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Porto Alegre",
+        "gender": "masculino",
+        "age_range": "25-34"
+      },
+      "fan_type": "casual",
+      "favorite_games": ["CS2", "Apex Legends"],
+      "engagement_score": 45,
+      "sentiment_score": 0.75,
+      "active_hours": ["20:00", "21:00"],
+      "first_interaction": "2023-11-15",
+      "last_interaction": "2025-04-10",
+      "total_interactions": 156,
+      "influence_score": 25,
+      "badges": ["espectador ocasional"],
+      "recommended_content": ["major_tournaments", "highlight_videos"]
+    },
+    {
+      "id": "fan007",
+      "username": "LoLFuria",
+      "platform": "twitter",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Salvador",
+        "gender": "masculino",
+        "age_range": "18-24"
+      },
+      "fan_type": "game_specific",
+      "favorite_games": ["League of Legends"],
+      "engagement_score": 80,
+      "sentiment_score": 0.82,
+      "active_hours": ["19:00", "20:00", "21:00"],
+      "first_interaction": "2022-06-12",
+      "last_interaction": "2025-04-21",
+      "total_interactions": 612,
+      "influence_score": 40,
+      "badges": ["fã lol", "comentarista"],
+      "recommended_content": ["lol_updates", "lol_team_news", "tournament_schedules"]
+    },
+    {
+      "id": "fan008",
+      "username": "FuriaSempre",
+      "platform": "instagram",
+      "demographics": {
+        "location": "Portugal",
+        "country": "Portugal",
+        "city": "Lisboa",
+        "gender": "masculino",
+        "age_range": "25-34"
+      },
+      "fan_type": "hardcore",
+      "favorite_games": ["CS2", "Valorant", "Rainbow Six"],
+      "engagement_score": 88,
+      "sentiment_score": 0.9,
+      "active_hours": ["16:00", "17:00", "18:00", "19:00"],
+      "first_interaction": "2021-09-30",
+      "last_interaction": "2025-04-22",
+      "total_interactions": 1532,
+      "influence_score": 70,
+      "badges": ["fã fiel", "comentarista", "compartilhador"],
+      "recommended_content": ["team_announcements", "exclusive_content", "behind_the_scenes"]
+    },
+    {
+      "id": "fan009",
+      "username": "R6Furia",
+      "platform": "twitter",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Curitiba",
+        "gender": "masculino",
+        "age_range": "18-24"
+      },
+      "fan_type": "game_specific",
+      "favorite_games": ["Rainbow Six"],
+      "engagement_score": 75,
+      "sentiment_score": 0.78,
+      "active_hours": ["19:00", "20:00", "21:00"],
+      "first_interaction": "2023-02-18",
+      "last_interaction": "2025-04-19",
+      "total_interactions": 387,
+      "influence_score": 35,
+      "badges": ["fã r6"],
+      "recommended_content": ["r6_updates", "r6_team_news", "tournament_schedules"]
+    },
+    {
+      "id": "fan010",
+      "username": "ApexPredator",
+      "platform": "twitter",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Fortaleza",
+        "gender": "masculino",
+        "age_range": "18-24"
+      },
+      "fan_type": "game_specific",
+      "favorite_games": ["Apex Legends"],
+      "engagement_score": 72,
+      "sentiment_score": 0.76,
+      "active_hours": ["21:00", "22:00", "23:00"],
+      "first_interaction": "2023-05-25",
+      "last_interaction": "2025-04-20",
+      "total_interactions": 298,
+      "influence_score": 30,
+      "badges": ["fã apex"],
+      "recommended_content": ["apex_updates", "apex_team_news", "tournament_schedules"]
+    },
+    {
+      "id": "fan011",
+      "username": "FutebolFuria",
+      "platform": "instagram",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "São Paulo",
+        "gender": "masculino",
+        "age_range": "25-34"
+      },
+      "fan_type": "game_specific",
+      "favorite_games": ["Futebol de 7"],
+      "engagement_score": 65,
+      "sentiment_score": 0.8,
+      "active_hours": ["18:00", "19:00", "20:00"],
+      "first_interaction": "2024-01-15",
+      "last_interaction": "2025-04-21",
+      "total_interactions": 187,
+      "influence_score": 25,
+      "badges": ["fã futebol"],
+      "recommended_content": ["football_updates", "kings_league_news"]
+    },
+    {
+      "id": "fan012",
+      "username": "NovaFa",
+      "platform": "instagram",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Manaus",
+        "gender": "feminino",
+        "age_range": "18-24"
+      },
+      "fan_type": "new",
+      "favorite_games": ["Valorant"],
+      "engagement_score": 30,
+      "sentiment_score": 0.75,
+      "active_hours": ["19:00", "20:00"],
+      "first_interaction": "2025-02-28",
+      "last_interaction": "2025-04-15",
+      "total_interactions": 35,
+      "influence_score": 8,
+      "badges": ["nova fã"],
+      "recommended_content": ["team_introduction", "game_basics", "valorant_team_news"]
+    },
+    {
+      "id": "fan013",
+      "username": "FuriaFanatic",
+      "platform": "twitter",
+      "demographics": {
+        "location": "Estados Unidos",
+        "country": "Estados Unidos",
+        "city": "Miami",
+        "gender": "masculino",
+        "age_range": "25-34"
+      },
+      "fan_type": "hardcore",
+      "favorite_games": ["CS2", "Valorant", "Apex Legends"],
+      "engagement_score": 92,
+      "sentiment_score": 0.88,
+      "active_hours": ["18:00", "19:00", "20:00", "21:00"],
+      "first_interaction": "2021-11-10",
+      "last_interaction": "2025-04-23",
+      "total_interactions": 1687,
+      "influence_score": 80,
+      "badges": ["fã fiel", "comentarista", "compartilhador", "criador de conteúdo"],
+      "recommended_content": ["team_announcements", "exclusive_content", "behind_the_scenes"]
+    },
+    {
+      "id": "fan014",
+      "username": "CasualViewer",
+      "platform": "instagram",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Goiânia",
+        "gender": "masculino",
+        "age_range": "35-44"
+      },
+      "fan_type": "casual",
+      "favorite_games": ["CS2"],
+      "engagement_score": 40,
+      "sentiment_score": 0.7,
+      "active_hours": ["20:00", "21:00"],
+      "first_interaction": "2024-05-20",
+      "last_interaction": "2025-04-10",
+      "total_interactions": 87,
+      "influence_score": 15,
+      "badges": ["espectador ocasional"],
+      "recommended_content": ["major_tournaments", "highlight_videos"]
+    },
+    {
+      "id": "fan015",
+      "username": "FuriaForever",
+      "platform": "twitter",
+      "demographics": {
+        "location": "Brasil",
+        "country": "Brasil",
+        "city": "Florianópolis",
+        "gender": "feminino",
+        "age_range": "18-24"
+      },
+      "fan_type": "hardcore",
+      "favorite_games": ["CS2", "Valorant", "League of Legends"],
+      "engagement_score": 94,
+      "sentiment_score": 0.92,
+      "active_hours": ["17:00", "18:00", "19:00", "20:00"],
+      "first_interaction": "2022-01-05",
+      "last_interaction": "2025-04-22",
+      "total_interactions": 1932,
+      "influence_score": 85,
+      "badges": ["fã fiel", "comentarista", "compartilhador", "criador de conteúdo"],
+      "recommended_content": ["team_announcements", "exclusive_content", "behind_the_scenes"]
+    }
+  ],
+  "demographics": {
+    "gender": {
+      "masculino": 73,
+      "feminino": 25,
+      "outro": 2
+    },
+    "age": {
+      "13-17": 15,
+      "18-24": 45,
+      "25-34": 30,
+      "35-44": 8,
+      "45+": 2
+    },
+    "location": {
+      "Brasil": 85,
+      "Portugal": 5,
+      "Estados Unidos": 4,
+      "Outros": 6
+    },
+    "platforms": {
+      "twitter": 45,
+      "instagram": 35,
+      "youtube": 15,
+      "twitch": 5
+    }
+  },
+  "fan_types": {
+    "hardcore": 30,
+    "game_specific": 40,
+    "casual": 20,
+    "new": 10
+  },
+  "game_preferences": {
+    "CS2": 40,
+    "Valorant": 25,
+    "League of Legends": 15,
+    "Rainbow Six": 8,
+    "Rocket League": 5,
+    "Apex Legends": 5,
+    "Futebol de 7": 2
+  },
+  "sentiment_analysis": {
+    "positive": 65,
+    "neutral": 25,
+    "negative": 10
+  },
+  "active_hours": {
+    "00:00-06:00": 5,
+    "06:00-12:00": 10,
+    "12:00-18:00": 35,
+    "18:00-00:00": 50
+  },
+  "engagement_metrics": {
+    "likes": 65000,
+    "comments": 25000,
+    "shares": 15000,
+    "views": 1500000
+  }
+}

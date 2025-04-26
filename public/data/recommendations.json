@@ -1,0 +1,156 @@
+{
+  "recommendations": [
+    {
+      "id": "rec001",
+      "title": "Análise tática: Como a FURIA dominou o último campeonato de CS2",
+      "description": "Conteúdo exclusivo analisando as estratégias que levaram a FURIA à vitória",
+      "content_type": "article",
+      "target_fan_types": ["hardcore", "game_specific"],
+      "related_games": ["CS2"],
+      "optimal_posting_time": "20:00",
+      "expected_engagement": 85
+    },
+    {
+      "id": "rec002",
+      "title": "Guia para iniciantes: Entendendo o cenário competitivo de Valorant",
+      "description": "Tudo o que você precisa saber para começar a acompanhar a FURIA no Valorant",
+      "content_type": "video",
+      "target_fan_types": ["new", "casual"],
+      "related_games": ["Valorant"],
+      "optimal_posting_time": "18:00",
+      "expected_engagement": 65
+    },
+    {
+      "id": "rec003",
+      "title": "Bastidores: Um dia na vida dos jogadores da FURIA",
+      "description": "Conteúdo exclusivo mostrando a rotina de treinos e preparação da equipe",
+      "content_type": "video",
+      "target_fan_types": ["hardcore"],
+      "related_games": ["CS2", "Valorant", "League of Legends"],
+      "optimal_posting_time": "19:00",
+      "expected_engagement": 90
+    },
+    {
+      "id": "rec004",
+      "title": "Calendário de torneios: Não perca nenhum jogo da FURIA",
+      "description": "Agenda completa com todos os próximos jogos da FURIA em todas as modalidades",
+      "content_type": "post",
+      "target_fan_types": ["hardcore", "game_specific", "casual", "new"],
+      "related_games": ["CS2", "Valorant", "League of Legends", "Rainbow Six", "Rocket League", "Apex Legends"],
+      "optimal_posting_time": "12:00",
+      "expected_engagement": 75
+    },
+    {
+      "id": "rec005",
+      "title": "Melhores momentos: FURIA na Kings League",
+      "description": "Compilado com os lances mais impressionantes da FURIA no futebol de 7",
+      "content_type": "video",
+      "target_fan_types": ["game_specific", "casual"],
+      "related_games": ["Futebol de 7"],
+      "optimal_posting_time": "19:00",
+      "expected_engagement": 60
+    },
+    {
+      "id": "rec006",
+      "title": "Entrevista exclusiva com o capitão da equipe de CS2",
+      "description": "Bate-papo sobre estratégias, desafios e expectativas para os próximos campeonatos",
+      "content_type": "video",
+      "target_fan_types": ["hardcore", "game_specific"],
+      "related_games": ["CS2"],
+      "optimal_posting_time": "20:00",
+      "expected_engagement": 85
+    },
+    {
+      "id": "rec007",
+      "title": "Guia completo: Como a FURIA revolucionou o cenário de Rainbow Six",
+      "description": "Análise detalhada das táticas e jogadas que tornaram a FURIA uma potência em R6",
+      "content_type": "article",
+      "target_fan_types": ["game_specific", "hardcore"],
+      "related_games": ["Rainbow Six"],
+      "optimal_posting_time": "19:00",
+      "expected_engagement": 70
+    },
+    {
+      "id": "rec008",
+      "title": "FURIA Responde: Perguntas e respostas com os jogadores",
+      "description": "Sessão interativa onde os jogadores respondem às perguntas mais populares dos fãs",
+      "content_type": "video",
+      "target_fan_types": ["hardcore", "game_specific", "casual", "new"],
+      "related_games": ["CS2", "Valorant", "League of Legends", "Rainbow Six", "Rocket League", "Apex Legends"],
+      "optimal_posting_time": "19:00",
+      "expected_engagement": 80
+    },
+    {
+      "id": "rec009",
+      "title": "Análise de desempenho: Como a FURIA dominou o último split de LoL",
+      "description": "Estatísticas e insights sobre a performance da equipe no campeonato",
+      "content_type": "article",
+      "target_fan_types": ["game_specific", "hardcore"],
+      "related_games": ["League of Legends"],
+      "optimal_posting_time": "18:00",
+      "expected_engagement": 75
+    },
+    {
+      "id": "rec010",
+      "title": "Promoção exclusiva: Ganhe 20% de desconto na nova coleção de uniformes",
+      "description": "Oferta por tempo limitado para os fãs mais engajados",
+      "content_type": "post",
+      "target_fan_types": ["hardcore"],
+      "related_games": ["CS2", "Valorant", "League of Legends", "Rainbow Six", "Rocket League", "Apex Legends", "Futebol de 7"],
+      "optimal_posting_time": "12:00",
+      "expected_engagement": 65
+    }
+  ],
+  "influencers": [
+    {
+      "id": "inf001",
+      "username": "FuriaFanatic",
+      "platform": "twitter",
+      "followers": 85000,
+      "engagement_rate": 8.5,
+      "content_focus": ["CS2", "Valorant"],
+      "partnership_potential": "high",
+      "recommended_approach": "Oferecer acesso exclusivo a eventos e conteúdo de bastidores"
+    },
+    {
+      "id": "inf002",
+      "username": "FuriaForever",
+      "platform": "twitter",
+      "followers": 65000,
+      "engagement_rate": 7.8,
+      "content_focus": ["CS2", "Valorant", "League of Legends"],
+      "partnership_potential": "high",
+      "recommended_approach": "Convidar para criar conteúdo exclusivo com os jogadores"
+    },
+    {
+      "id": "inf003",
+      "username": "FuriaLover",
+      "platform": "instagram",
+      "followers": 120000,
+      "engagement_rate": 9.2,
+      "content_focus": ["CS2", "Valorant", "League of Legends"],
+      "partnership_potential": "very high",
+      "recommended_approach": "Parceria para criação de série de conteúdo exclusivo"
+    },
+    {
+      "id": "inf004",
+      "username": "CSGOmaster",
+      "platform": "twitter",
+      "followers": 45000,
+      "engagement_rate": 6.5,
+      "content_focus": ["CS2"],
+      "partnership_potential": "medium",
+      "recommended_approach": "Convidar para eventos de CS2 e fornecer conteúdo exclusivo"
+    },
+    {
+      "id": "inf005",
+      "username": "FuriaSempre",
+      "platform": "instagram",
+      "followers": 95000,
+      "engagement_rate": 8.0,
+      "content_focus": ["CS2", "Valorant", "Rainbow Six"],
+      "partnership_potential": "high",
+      "recommended_approach": "Oferecer produtos exclusivos e acesso a eventos"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "interactions": [
+    {
+      "id": "int001",
+      "user_id": "fan001",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "Que jogo incrível da FURIA ontem! Dominaram completamente o mapa!",
+      "timestamp": "2025-04-20T21:15:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.92,
+      "game_related": "CS2",
+      "event_related": "ESL Pro League"
+    },
+    {
+      "id": "int002",
+      "user_id": "fan002",
+      "platform": "twitter",
+      "content_type": "like",
+      "content": "",
+      "timestamp": "2025-04-22T19:30:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "game_related": "Valorant",
+      "event_related": "VCT Americas"
+    },
+    {
+      "id": "int003",
+      "user_id": "fan003",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "Quando teremos mais notícias sobre o time de Rocket League?",
+      "timestamp": "2025-04-15T20:45:00Z",
+      "sentiment": "neutral",
+      "sentiment_score": 0.5,
+      "game_related": "Rocket League",
+      "event_related": ""
+    },
+    {
+      "id": "int004",
+      "user_id": "fan004",
+      "platform": "instagram",
+      "content_type": "share",
+      "content": "",
+      "timestamp": "2025-04-23T14:20:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "game_related": "CS2",
+      "event_related": "Anúncio de novo jogador"
+    },
+    {
+      "id": "int005",
+      "user_id": "fan005",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "Como faço para comprar o novo uniforme da FURIA?",
+      "timestamp": "2025-04-18T16:10:00Z",
+      "sentiment": "neutral",
+      "sentiment_score": 0.6,
+      "game_related": "CS2",
+      "event_related": ""
+    },
+    {
+      "id": "int006",
+      "user_id": "fan006",
+      "platform": "instagram",
+      "content_type": "like",
+      "content": "",
+      "timestamp": "2025-04-10T21:05:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.75,
+      "game_related": "CS2",
+      "event_related": "Highlight do campeonato"
+    },
+    {
+      "id": "int007",
+      "user_id": "fan007",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "O desempenho no LoL precisa melhorar, estamos ficando para trás",
+      "timestamp": "2025-04-21T19:50:00Z",
+      "sentiment": "negative",
+      "sentiment_score": 0.3,
+      "game_related": "League of Legends",
+      "event_related": "CBLOL"
+    },
+    {
+      "id": "int008",
+      "user_id": "fan008",
+      "platform": "instagram",
+      "content_type": "share",
+      "content": "",
+      "timestamp": "2025-04-22T17:30:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "game_related": "CS2",
+      "event_related": "Vitória em campeonato"
+    },
+    {
+      "id": "int009",
+      "user_id": "fan009",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "A estratégia no Rainbow Six está cada vez melhor!",
+      "timestamp": "2025-04-19T20:15:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.88,
+      "game_related": "Rainbow Six",
+      "event_related": "Six Invitational"
+    },
+    {
+      "id": "int010",
+      "user_id": "fan010",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "Quando a FURIA vai investir mais no time de Apex?",
+      "timestamp": "2025-04-20T22:40:00Z",
+      "sentiment": "neutral",
+      "sentiment_score": 0.45,
+      "game_related": "Apex Legends",
+      "event_related": ""
+    },
+    {
+      "id": "int011",
+      "user_id": "fan011",
+      "platform": "instagram",
+      "content_type": "like",
+      "content": "",
+      "timestamp": "2025-04-21T19:10:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.8,
+      "game_related": "Futebol de 7",
+      "event_related": "Kings League"
+    },
+    {
+      "id": "int012",
+      "user_id": "fan012",
+      "platform": "instagram",
+      "content_type": "comment",
+      "content": "Comecei a acompanhar a FURIA recentemente, estou adorando!",
+      "timestamp": "2025-04-15T19:25:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.95,
+      "game_related": "Valorant",
+      "event_related": ""
+    },
+    {
+      "id": "int013",
+      "user_id": "fan013",
+      "platform": "twitter",
+      "content_type": "share",
+      "content": "",
+      "timestamp": "2025-04-23T18:50:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.85,
+      "game_related": "CS2",
+      "event_related": "Anúncio de bootcamp"
+    },
+    {
+      "id": "int014",
+      "user_id": "fan014",
+      "platform": "instagram",
+      "content_type": "like",
+      "content": "",
+      "timestamp": "2025-04-10T20:30:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.7,
+      "game_related": "CS2",
+      "event_related": "Highlight do campeonato"
+    },
+    {
+      "id": "int015",
+      "user_id": "fan015",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "A FURIA é simplesmente a melhor organização de esports do Brasil!",
+      "timestamp": "2025-04-22T19:05:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.98,
+      "game_related": "",
+      "event_related": ""
+    },
+    {
+      "id": "int016",
+      "user_id": "fan001",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "Essa nova formação do time de CS2 tem potencial para ganhar o Major!",
+      "timestamp": "2025-04-19T20:30:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.9,
+      "game_related": "CS2",
+      "event_related": ""
+    },
+    {
+      "id": "int017",
+      "user_id": "fan004",
+      "platform": "instagram",
+      "content_type": "comment",
+      "content": "Adorei o novo uniforme! Já comprei o meu!",
+      "timestamp": "2025-04-21T13:45:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.95,
+      "game_related": "",
+      "event_related": "Lançamento de uniforme"
+    },
+    {
+      "id": "int018",
+      "user_id": "fan007",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "Precisamos de mais conteúdo sobre o time de LoL!",
+      "timestamp": "2025-04-18T19:20:00Z",
+      "sentiment": "neutral",
+      "sentiment_score": 0.5,
+      "game_related": "League of Legends",
+      "event_related": ""
+    },
+    {
+      "id": "int019",
+      "user_id": "fan009",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "Essa derrota no R6 foi difícil de engolir...",
+      "timestamp": "2025-04-16T21:10:00Z",
+      "sentiment": "negative",
+      "sentiment_score": 0.2,
+      "game_related": "Rainbow Six",
+      "event_related": "Six Major"
+    },
+    {
+      "id": "int020",
+      "user_id": "fan013",
+      "platform": "twitter",
+      "content_type": "comment",
+      "content": "A FURIA está revolucionando o cenário de esports no Brasil!",
+      "timestamp": "2025-04-20T19:15:00Z",
+      "sentiment": "positive",
+      "sentiment_score": 0.95,
+      "game_related": "",
+      "event_related": ""
+    }
+  ],
+  "geo_data": {
+    "Brasil": {
+      "São Paulo": 250,
+      "Rio de Janeiro": 180,
+      "Belo Horizonte": 120,
+      "Brasília": 100,
+      "Porto Alegre": 90,
+      "Curitiba": 85,
+      "Salvador": 80,
+      "Recife": 75,
+      "Fortaleza": 70,
+      "Manaus": 65,
+      "Goiânia": 60,
+      "Florianópolis": 55,
+      "Outros": 270
+    },
+    "Portugal": {
+      "Lisboa": 45,
+      "Porto": 30,
+      "Outros": 25
+    },
+    "Estados Unidos": {
+      "Miami": 35,
+      "Nova York": 25,
+      "Los Angeles": 20,
+      "Outros": 20
+    },
+    "Outros países": 200
+  }
+}
